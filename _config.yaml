@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Lake Proa
 description: Building and sailing Proa on lakes.
-#url: "https://augustasvol.github.io/lakeproa" # the base hostname & protocol for your site
-#theme: jekyll-theme-minimal # choose a Jekyll theme, e.g., minima
+url: "https://augustasvol.github.io/lakeproa" # the base hostname & protocol for your site
